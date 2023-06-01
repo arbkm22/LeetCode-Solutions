@@ -24,6 +24,7 @@ dX.    9Xb      .dXb    __                         __    dXb.     dXP     .Xb
 Author      : hellking
 File        : ReplaceElements
 Created on  : Thu, 01 June, 2023
+Link        : https://leetcode.com/problems/replace-elements-with-greatest-element-on-right-side/description/
 */
 
 #include <bits/stdc++.h>
